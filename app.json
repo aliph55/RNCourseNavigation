@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RNCourseNavigation",
+    "backgroundColor":"#24180f",
+    "slug": "RNCourseNavigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
